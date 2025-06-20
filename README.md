@@ -46,4 +46,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions or suggestions, feel free to reach out at [your-email@example.com](mailto:your-email@example.com). 
+For any questions or suggestions, feel free to reach out at (kumarmanoj55469@gmai.com)
